@@ -25,11 +25,11 @@ Exploratory data analysis on a US retail superstore dataset covering orders from
 
 ## Notebook Structure
 
-1. **Data Loading & Overview** — shape, dtypes, first look  
-2. **Data Cleaning** — date conversion, missing values, duplicates, outlier check  
-3. **Business Questions** — 5 targeted analyses using groupby aggregations  
-4. **Visualizations** — horizontal bar charts for products, months, and regions  
-5. **Key Findings & Conclusion**
+1. **Data Loading & Overview** : shape, dtypes, first look  
+2. **Data Cleaning** : date conversion, missing values, duplicates, outlier check  
+4. **Business Questions** — 5 targeted analyses using groupby aggregations  
+5. **Visualizations** — horizontal bar charts for products, months, and regions  
+6. **Key Findings & Conclusion**
 
 ---
 
