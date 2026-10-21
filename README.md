@@ -8,7 +8,7 @@
 
 ## Overview
 
-Exploratory data analysis on a US retail superstore dataset covering orders from 2015 to 2018. The goal was to answer key business questions about product performance, seasonal trends, regional revenue, and order value — and to practice a full data analysis workflow from cleaning to visualization.
+Exploratory data analysis on a US retail superstore dataset covering orders from 2015 to 2018. The goal was to answer key business questions about product performance, seasonal trends, regional revenue, and order value, in order to practice a full data analysis workflow from cleaning to visualization.
 
 ---
 
