@@ -27,8 +27,8 @@ Exploratory data analysis on a US retail superstore dataset covering orders from
 
 1. **Data Loading & Overview** : shape, dtypes, first look  
 2. **Data Cleaning** : date conversion, missing values, duplicates, outlier check  
-4. **Business Questions** — 5 targeted analyses using groupby aggregations  
-5. **Visualizations** — horizontal bar charts for products, months, and regions  
+4. **Business Questions**: 5 targeted analyses using groupby aggregations  
+5. **Visualizations**: horizontal bar charts for products, months, and regions  
 6. **Key Findings & Conclusion**
 
 ---
@@ -45,7 +45,7 @@ Exploratory data analysis on a US retail superstore dataset covering orders from
 
 ## Key Findings
 
-- 🥇 **Canon imageCLASS 2200 Advanced Copier** is the top product at **$61,599** in total sales — nearly 2.5× the second-highest product
+- 🥇 **Canon imageCLASS 2200 Advanced Copier** is the top product at **$61,599** in total sales, nearly 2.5× the second-highest product
 - 📅 **November and December** are the strongest sales months ($350k and $321k), driven by end-of-year purchasing
 - 🗺️ The **West region** leads in revenue ($710k), with the South lagging at $389k
 - 💰 Average order value is **$459**
